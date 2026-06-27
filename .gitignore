@@ -1,0 +1,34 @@
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# renv
+renv/library/
+renv/local/
+renv/cellar/
+renv/lock/
+renv/python/
+renv/sandbox/
+renv/staging/
+.Renviron
+
+# Package build artifacts
+*.tar.gz
+*.Rcheck/
+
+# Data and outputs (tracked selectively; do not commit raw/large data by default)
+data/*
+!data/.gitkeep
+output/*
+!output/.gitkeep
+!output/logs/.gitkeep
+output/logs/*
+!output/logs/.gitkeep
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/

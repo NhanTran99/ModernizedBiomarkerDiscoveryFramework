@@ -1,0 +1,23 @@
+Package: GCSignatureFramework
+Title: Modernized Biomarker Discovery Framework for the 12-Gene Gastric Cancer Signature
+Version: 0.0.0.9000
+Authors@R:
+    person("Nhan", "Tran", email = "nhan.tran@example.com", role = c("aut", "cre"))
+Description: Repository for Part 2 of the 12-Gene Gastric Cancer Signature
+    project: a Modernized Biomarker Discovery Framework benchmarking
+    contemporary machine learning methodology (LASSO, Elastic Net,
+    Bootstrap validation, Nested CV, Stability selection) against the
+    classical statistical reconstruction completed in Part 1. This
+    package is bootstrapped under Module 01 — Repository Bootstrap and
+    is built out incrementally under the locked governance chain
+    (FRAMEWORK_SPEC, IDS-001 through IDS-006, MODULE_TAXONOMY,
+    IMPLEMENTATION_MASTER_PLAN, CODING_PHASE_PHILOSOPHY).
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Depends:
+    R (>= 4.4)
+Suggests:
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3

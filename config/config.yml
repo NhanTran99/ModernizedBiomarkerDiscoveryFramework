@@ -1,0 +1,11 @@
+default:
+  project_name: GCSignatureFramework
+  description: >
+    Configuration placeholder created during Module 01 — Repository
+    Bootstrap. No framework, algorithmic, or domain-specific
+    configuration is introduced at this stage. Downstream Coding
+    Modules will extend this file under their own governing IDS.
+  paths:
+    data_dir: data
+    output_dir: output
+    logs_dir: output/logs

@@ -1,0 +1,12 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^renv$
+^renv\.lock$
+^dev$
+^config$
+^Execution$
+^output$
+^data$
+^README\.md$
+^LICENSE\.md$
+^\.gitignore$
