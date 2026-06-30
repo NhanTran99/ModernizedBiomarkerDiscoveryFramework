@@ -26,7 +26,6 @@ output/*
 !output/.gitkeep
 !output/logs/.gitkeep
 output/logs/*
-!output/logs/.gitkeep
 
 # OS / editor
 .DS_Store
