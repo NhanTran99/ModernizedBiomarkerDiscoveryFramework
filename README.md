@@ -2,13 +2,12 @@
 
 License
 R
-Version
-Build Status (khi có GitHub Actions)
-DOI (Zenodo, sau này)
+Version 1.0
+DOI (Updating)
 
 A governance-driven, methodology-aware, and implementation-independent framework for reproducible biomarker discovery and translational research.
 
-> **Status:** Version 1.0.0 Release Preparation
+> **Status:** Version 1.0 Release Preparation
 > **Project:** 12-Gene Gastric Cancer Signature — Part 2: Modernized Biomarker Discovery Framework
 
 ---
